@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/1shwInSingh/leedcode_tracking/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/1shwInSingh/leedcode_tracking/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/1shwInSingh/leedcode_tracking/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [2561-rearranging-fruits](https://github.com/1shwInSingh/leedcode_tracking/tree/master/2561-rearranging-fruits) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/1shwInSingh/leedcode_tracking/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/1shwInSingh/leedcode_tracking/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/1shwInSingh/leedcode_tracking/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [2561-rearranging-fruits](https://github.com/1shwInSingh/leedcode_tracking/tree/master/2561-rearranging-fruits) |
 ## Linked List
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/1shwInSingh/leedcode_tracking/tree/master/0011-container-with-most-water) |
+| [2561-rearranging-fruits](https://github.com/1shwInSingh/leedcode_tracking/tree/master/2561-rearranging-fruits) |
 ## Trie
 |  |
 | ------- |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/1shwInSingh/leedcode_tracking/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/1shwInSingh/leedcode_tracking/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/1shwInSingh/leedcode_tracking/tree/master/0075-sort-colors) |
+| [2561-rearranging-fruits](https://github.com/1shwInSingh/leedcode_tracking/tree/master/2561-rearranging-fruits) |
 ## Backtracking
 |  |
 | ------- |

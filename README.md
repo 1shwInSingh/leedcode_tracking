@@ -141,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/1shwInSingh/leedcode_tracking/tree/master/0075-sort-colors) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/1shwInSingh/leedcode_tracking/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->

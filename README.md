@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/1shwInSingh/leedcode_tracking/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/1shwInSingh/leedcode_tracking/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/1shwInSingh/leedcode_tracking/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/1shwInSingh/leedcode_tracking/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/1shwInSingh/leedcode_tracking/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/1shwInSingh/leedcode_tracking/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/1shwInSingh/leedcode_tracking/tree/master/0022-generate-parentheses) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/1shwInSingh/leedcode_tracking/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Manacher
 |  |
 | ------- |

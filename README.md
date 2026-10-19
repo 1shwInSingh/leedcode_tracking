@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/1shwInSingh/leedcode_tracking/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/1shwInSingh/leedcode_tracking/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/1shwInSingh/leedcode_tracking/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/1shwInSingh/leedcode_tracking/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2561-rearranging-fruits](https://github.com/1shwInSingh/leedcode_tracking/tree/master/2561-rearranging-fruits) |
 ## Hash Table
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/1shwInSingh/leedcode_tracking/tree/master/0004-median-of-two-sorted-arrays) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/1shwInSingh/leedcode_tracking/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/1shwInSingh/leedcode_tracking/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/1shwInSingh/leedcode_tracking/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/1shwInSingh/leedcode_tracking/tree/master/0075-sort-colors) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/1shwInSingh/leedcode_tracking/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2561-rearranging-fruits](https://github.com/1shwInSingh/leedcode_tracking/tree/master/2561-rearranging-fruits) |
 ## Backtracking
 |  |

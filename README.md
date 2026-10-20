@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/1shwInSingh/leedcode_tracking/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/1shwInSingh/leedcode_tracking/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/1shwInSingh/leedcode_tracking/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/1shwInSingh/leedcode_tracking/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/1shwInSingh/leedcode_tracking/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/1shwInSingh/leedcode_tracking/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/1shwInSingh/leedcode_tracking/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/1shwInSingh/leedcode_tracking/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/1shwInSingh/leedcode_tracking/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/1shwInSingh/leedcode_tracking/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/1shwInSingh/leedcode_tracking/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/1shwInSingh/leedcode_tracking/tree/master/0075-sort-colors) |
 ## Dynamic Programming
 |  |

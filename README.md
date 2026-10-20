@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/1shwInSingh/leedcode_tracking/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/1shwInSingh/leedcode_tracking/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/1shwInSingh/leedcode_tracking/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/1shwInSingh/leedcode_tracking/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0075-sort-colors](https://github.com/1shwInSingh/leedcode_tracking/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/1shwInSingh/leedcode_tracking/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/1shwInSingh/leedcode_tracking/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/1shwInSingh/leedcode_tracking/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/1shwInSingh/leedcode_tracking/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/1shwInSingh/leedcode_tracking/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/1shwInSingh/leedcode_tracking/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |

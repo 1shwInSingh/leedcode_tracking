@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/1shwInSingh/leedcode_tracking/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/1shwInSingh/leedcode_tracking/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/1shwInSingh/leedcode_tracking/tree/master/0029-divide-two-integers) |
+| [2409-count-days-spent-together](https://github.com/1shwInSingh/leedcode_tracking/tree/master/2409-count-days-spent-together) |
 | [3886-sum-of-sortable-integers](https://github.com/1shwInSingh/leedcode_tracking/tree/master/3886-sum-of-sortable-integers) |
 ## Recursion
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/1shwInSingh/leedcode_tracking/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/1shwInSingh/leedcode_tracking/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/1shwInSingh/leedcode_tracking/tree/master/0038-count-and-say) |
+| [2409-count-days-spent-together](https://github.com/1shwInSingh/leedcode_tracking/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/1shwInSingh/leedcode_tracking/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sliding Window
 |  |
